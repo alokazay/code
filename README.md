@@ -23,7 +23,7 @@ To add some fun, the code has been obfuscated, and the core logic is encoded usi
 4. To generate a random number between 1 and 100, execute the following code:
 
    ```javascript
-   eval(atob('Y29uc29sZS5sb2coKG5ldyBEYXRlKCkuZ2V0VGltZSgpICUgMTAwKSArIDEpOw=='));
+   eval(atob('Y29uc29sZS5sb2coRGF0ZS5ub3coKSUxMDArMSk='));
    ```
 
 This will output a random number in the console.
